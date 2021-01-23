@@ -1,1 +1,18 @@
 
+{
+  "villes": [
+    {
+      "code": 1,
+      "nom": "benimellal"
+    },   
+    {
+      "code": 2,
+      "nom": "casa"
+    }
+    ,    
+    {
+      "code": 3,
+      "nom": "rabat"
+    }
+  ]
+}
