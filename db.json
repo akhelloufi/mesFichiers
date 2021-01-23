@@ -13,6 +13,10 @@
     {
       "code": 3,
       "nom": "rabat"
+    },
+    {
+      "code": 4,
+      "nom": "agadir"
     }
   ]
 }
